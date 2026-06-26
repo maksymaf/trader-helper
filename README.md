@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+![preview](https://res.cloudinary.com/dcbhml5dp/image/upload/v1782501867/trader-helper_h3xrav.png)
